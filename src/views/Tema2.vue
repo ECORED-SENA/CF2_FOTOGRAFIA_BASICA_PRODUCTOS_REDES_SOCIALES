@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span(style="color: white") 2
-      h1 La cámara como dispositivo
+      h1 Leyes de composición fotográfica
     
     .d-flex.flex-wrap.flex-xl-nowrap.align-items-center.mb-5
       img(src='@/assets/curso/temas/tema2/img-1.png' style="max-width: 400px").col-xl-5.mx-auto

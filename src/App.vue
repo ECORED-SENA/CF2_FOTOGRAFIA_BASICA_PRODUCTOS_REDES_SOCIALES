@@ -35,4 +35,14 @@ export default {
   background-image: url(assets/curso/portada/img-fontdo-tema.png) !important
   background-position: initial !important
   height: 220px
+.slyder-a__btn--sigt
+  background-color: #147DC4 !important
+  color: white !important
+  background-image: url(assets/curso/temas/arrow.svg) !important
+  transform: rotate(0deg) !important
+.slyder-a__btn--atrs
+  background-color: #147DC4 !important
+  color: white !important
+  background-image: url(assets/curso/temas/arrow.svg) !important
+  transform: rotate(180deg) !important
 </style>

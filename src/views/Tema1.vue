@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span(style="color: white") 1
-      h1 Fotografía
+      h1 Iluminación
     
     .d-flex.flex-wrap.flex-lg-nowrap.mb-5
       .col-lg-5
