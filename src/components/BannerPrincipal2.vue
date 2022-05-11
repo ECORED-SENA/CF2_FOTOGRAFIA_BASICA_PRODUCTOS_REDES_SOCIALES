@@ -2,7 +2,7 @@
 .banner-principal
   .container.tarjeta.position-relative(
     :style="{'background-image': globalData.fondoBannerPrincipal ? `url(${globalData.fondoBannerPrincipal})` : 'none'}"
-    style="min-height: 506px; display: flex"
+    style="min-height: 506px; display: flex; overflow: hidden;"
   )
     .row.banner-principal__row.position-relative.justify-content-center.align-items-center
       .col-lg-7.col-xxl-6.py-4.py-sm-5.banner-principal__info
@@ -40,14 +40,12 @@ export default {
   top: 0 !important
   right: -4% !important
   img
-    width: 530px
-    position: relative
+    min-width: 530px
+    max-width: 530px
+    position: absolute
     z-index: 1
-@media (max-width: 1400px)
-  .img-banner-1
-    img
-      width: 377.66px
-      right: 6rem
+  @media (max-width: 1400px)
+    right: -8.5% !important
 .img-p
   top: 3%
   right: -2%
@@ -152,6 +150,8 @@ export default {
       border-radius: 50%
       background: radial-gradient(circle, rgba(255,255,255,0.7) 20%, rgba(255,255,255,0.4) 40%, rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 50%, rgba(255,255,255,0.3) 70%)
       animation: flash 2.5s ease-in-out infinite alternate
+    @media (max-width: 990px)
+      display: none
   &_5
     animation: float1 3.9s ease-in-out infinite alternate
     position: absolute
