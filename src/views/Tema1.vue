@@ -8,8 +8,8 @@
       h1 Iluminación
     
     .d-flex.flex-wrap.flex-lg-nowrap.mb-5
-      .col-lg-5
-        img(src="@/assets/curso/temas/tema1/img-1.png" style="max-width: 460px")
+      .col-lg-5.mx-auto
+        img(src="@/assets/curso/temas/tema1/img-1.png" style="max-width: 460px").mb-4.mb-lg-0
       p.col-lg-7.mb-0 <b>“Para la fotografía, la luz es el elemento fundamental, la materia prima” (<em>Too many flash</em>, 2021)</b>, así la iluminación se llama en fotografía el impacto que hace la luz  sobre un objeto; por tanto, es un elemento que se considera vital para su realización. La calidad del resultado fotográfico es <b>directamente proporcional a la intervención de la luz</b>; la cual puede ser manipulada desde la cámara fotográfica a partir de características tales como el ISO, la velocidad de obturación, la apertura del diafragma y el exposímetro o, de forma externa con las fuentes controladas de luz; todas estas características ayudan a determinar cuánta cantidad de luz o de sombra se desea en una fotografía. La iluminación en la fotografía no solo sirve para controlar luces y sombras, también sirve como elemento de construcción de la emoción, sensación y percepción de la imagen. La luz ayuda a contar historias y a componer mensajes visuales por medio de sus cualidades, que <b>son 4 según Xataka (2015)</b>:
   
     .d-flex.mb-5.py-5
@@ -38,7 +38,7 @@
       | En la siguiente muestra fotográfica puede evidenciarse cómo impacta la intensidad de la luz según la distancia desde la que se dispone la fuente de luz.
     
     .d-flex.flex-wrap.flex-md-nowrap.justify-content-center.mb-5
-      img(src="@/assets/curso/temas/tema1/img-4.png" style="max-width: 295px").pe-0.pe-md-3.mb-auto
+      img(src="@/assets/curso/temas/tema1/img-4.png" style="max-width: 295px").pe-0.pe-md-3.mb-4.mb-md-auto
       img(src="@/assets/curso/temas/tema1/img-5.png" style="max-width: 295px").ps-0.ps-md-3.mt-0.mt-md-5.mb-4.mb-md-auto
 
     .d-flex.mb-5.py-5
@@ -82,7 +82,7 @@
         .container-interactive-hover-text(@mouseover="indicadorImagenHover = false")
           .indicador--hover.d-none.d-md-flex(v-if="indicadorImagenHover")
           .indicador--click.d-block.d-md-none(v-if="indicadorImagenHover")
-          img(src="@/assets/curso/temas/tema1/img-9.png")
+          img(src="@/assets/curso/temas/tema1/img-9.png").col-12
           .container-body-text
             p.title.fw-bold Mediodía
             p.content En las horas del mediodía entre <b>12:00 p.m.</b> y <b>2:00 p.m.</b> el sol estará muy fuerte y en posición cenital (centro superior), lo cual provocará sombras muy marcadas y definidas como se ve en el ejemplo.  
@@ -122,7 +122,7 @@
         br
         br
         |Existen tres tipos de presentaciones de luces <em>flash</em>, diferenciados como se muestra en el siguiente recurso:
-      img(src="@/assets/curso/temas/tema1/img-12.png" style="max-width: 505px").col-12.col-xl-5.order-1.order-xl-2.mx-auto
+      img(src="@/assets/curso/temas/tema1/img-12.png" style="max-width: 505px").col-12.col-xl-5.mb-4.mb-xl-auto.order-1.order-xl-2.mx-auto
   
     .d-flex.mb-5.py-5
       div(style="margin-left: -3rem; padding-top: .5rem; padding-bottom: .5rem; padding-left: 3rem; border-top-right-radius: 11px; background-color: #C9DFF1; position: relative; padding-right: 80px; min-width: 250px")
@@ -207,7 +207,7 @@
 
     p.mb-5 De este modo con la utilización de la iluminación de flash y de sus accesorios se pueden realizar fotografías con una óptima calidad, sin importar las circunstancias que se puedan presentar en un lugar con poca o ninguna iluminación natural.
 
-    .tarjeta.color-primario.p-3.mb-5.col-xl-10.mx-auto(style="background: linear-gradient(0deg, rgba(103,235,253,1) 0%, rgba(131,239,254,1) 25%, rgba(167,244,255,1) 75%, rgba(180,246,255,1) 100%);")
+    .tarjeta.color-primario.p-3.col-xl-10.mx-auto(style="background: linear-gradient(0deg, rgba(103,235,253,1) 0%, rgba(131,239,254,1) 25%, rgba(167,244,255,1) 75%, rgba(180,246,255,1) 100%);")
       .row.justify-content-around.align-items-center
         .col-xl-1
         .col
@@ -219,7 +219,7 @@
               a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
                 span(style="color: black !important") Descargar
                 i.fas.fa-file-download(style="color: black !important")
-    
+    Separador
     .titulo-segundo.color-acento-contenido
       h2#t_1_3 1.3 Iluminación mixta
 

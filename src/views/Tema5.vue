@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span(style="color: white") 4
+        span(style="color: white") 5
       h1 Guion fotográfico
 
     p.mb-5 Es la construcción y diseño planificado de los <b>objetivos de la fotografía</b> por realizar. En un proyecto fotográfico, el guion hace parte de la etapa denominada <b>preproducción</b>. En esta parte del proceso, la preparación tanto del equipo fotográfico como del producto son muy importantes para obtener los resultados deseados. Asimismo, es fundamental preguntarse:

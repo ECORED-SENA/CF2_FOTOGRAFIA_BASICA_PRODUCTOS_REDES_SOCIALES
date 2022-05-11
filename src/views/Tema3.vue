@@ -74,38 +74,38 @@
       .col-md-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
-          .tarjeta-slide__contenedor.h-100(style="background-color: #FFF8DD")
-            .tarjeta-slide__contenido.p-4
+          .tarjeta-slide__contenedor.h-100
+            .tarjeta-slide__contenido(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-4.png')})`}" style="background-size: cover; height: 100%; width: 100%; min-height: 458px")
+            .tarjeta-slide__img.p-4(style="background-color: #FFF8DD")
               p(style="color: black") <b style="color: black !important">Ángulo normal o medio</b>
                 br
                 | Hace referencia al momento en que la fotografía se toma desde el mismo nivel del objeto tomado, es decir, paralelo, esta toma no se realiza ni por encima, ni por debajo del objeto. Se utiliza para exponer o describir algo de forma natural y neutral. 
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-4.png')})`}")
 
       .col-md-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.arriba.color-primario
-          .tarjeta-slide__contenedor.h-100(style="background-color: #FFF2BE")
-            .tarjeta-slide__contenido.p-4
+          .tarjeta-slide__contenedor.h-100
+            .tarjeta-slide__contenido(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-5.png')})`}" style="background-size: cover; height: 100%; width: 100%; min-height: 458px")
+            .tarjeta-slide__img.p-4(style="background-color: #FFF2BE")
               p(style="color: black") <b style="color: black !important">Ángulo picado</b>
                 br
                 |Permite observar una imagen tomada desde un punto de vista más alto que el objeto fotografiado, es decir, de arriba hacia abajo. Esto crea un efecto de acuerdo con la perspectiva que se provoca, el objeto se observará más pequeño de lo que en realidad es. Se recomienda que si este tipo de toma es utilizado con personas la imagen puede generar connotaciones negativas, ya que causa una impresión de humillación y debilidad.
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-5.png')})`}")
       
       .col-md-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.arriba.color-primario
-          .tarjeta-slide__contenedor.h-100(style="background-color: #FFF8DD")
-            .tarjeta-slide__contenido.p-4
+          .tarjeta-slide__contenedor.h-100
+            .tarjeta-slide__contenido(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-6.png')})`}" style="background-size: cover; height: 100%; width: 100%; min-height: 458px")
+            .tarjeta-slide__img.p-4(style="background-color: #FFF8DD")
               p(style="color: black") <b style="color: black !important">Ángulo contrapicado</b>
                 br
                 |por el contrario, a la toma anterior esta se realiza desde un lugar bajo que el objetivo tomado, haciendo que quede este mucho más alto que la cámara, teniendo en cuenta la perspectiva que se podrá observar el objetivo parecerá muy grande visualmente, lo que generará al espectador una sensación de poder, enaltecimiento e importancia.
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-6.png')})`}")
 
       .col-md-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.arriba.color-primario
-          .tarjeta-slide__contenedor.h-100(style="background-color: #FFF2BE")
-            .tarjeta-slide__contenido.p-4
+          .tarjeta-slide__contenedor.h-100
+            .tarjeta-slide__contenido(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-7.png')})`}" style="background-size: cover; height: 100%; width: 100%; min-height: 458px")
+            .tarjeta-slide__img.p-4(style="background-color: #FFF2BE")
               p(style="color: black") <b style="color: black !important">Ángulo cenital</b>
                 | Es cuando la toma se realiza en un ángulo completamente de arriba hacia abajo, perpendicular con respecto al suelo. Se puede afirmar que es lo más extremo posible de una toma de este tipo, provoca una fotografía sin perspectiva, la cual es muy representativa si se aplica a objetos pequeños e interesante si se aplica a grandes elementos.
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-7.png')})`}")
 
 
 </template>
