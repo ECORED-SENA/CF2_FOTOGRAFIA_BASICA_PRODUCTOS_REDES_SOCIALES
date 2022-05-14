@@ -26,7 +26,7 @@
         img(src='@/assets/curso/temas/tema5/img-4.svg' style="max-width: 89px").mb-4
         p <b>¿Dónde se va a fotografiar?</b>
           br
-          | El lugar donde se realizará la fotografía también es fundamental, ya que definirá el espacio que se tiene para montar el set fotográfico, al igual que las superficies o fondos que se tienen para la imagen. También determinará el equipo de iluminación necesario según la fuente de luz que se encuentre en el espacio. 
+          | El lugar donde se realizará la fotografía también es fundamental, ya que definirá el espacio que se tiene para montar el <em>set</em> fotográfico, al igual que las superficies o fondos que se tienen para la imagen. También determinará el equipo de iluminación necesario según la fuente de luz que se encuentre en el espacio. 
 
       .tarjeta.color-acento-botones.p-4.px-xl-5.py-xl-4.h-100(style="background-color: #FFF8DD")
         img(src='@/assets/curso/temas/tema5/img-5.svg' style="max-width: 89px").mb-4

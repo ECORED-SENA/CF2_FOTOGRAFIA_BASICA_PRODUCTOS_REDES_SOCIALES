@@ -9,7 +9,7 @@
 
     .d-flex.flex-wrap.flex-xl-nowrap.align-items-center.mb-5.col-xl-11.mx-auto
       .position-relative.col-xl-6.order-2.order-xl-1
-        p.ps-xl-4.pt-xl-3.position-relative(style="z-index: 1") El uso de efectos fotográficos se ha ampliado a lo largo de los años para lograr resultados verdaderamente originales. Pero ¿qué significa efecto fotográfico? Por un lado, se puede hablar del retoque digital, que se realiza posteriormente de la toma y se hacen con programas para edición de imágenes. Con este tipo de software se podrán personalizar los parámetros para conseguir un aspecto muy innovador, hay muchos efectos fotográficos que puede hacer con una cámara fotográfica o un dispositivo móvil.
+        p.ps-xl-4.pt-xl-3.position-relative(style="z-index: 1") El uso de efectos fotográficos se ha ampliado a lo largo de los años para lograr resultados verdaderamente originales. Pero ¿qué significa efecto fotográfico? Por un lado, se puede hablar del retoque digital, que se realiza posteriormente de la toma y se hacen con programas para edición de imágenes. Con este tipo de <em>software</em> se podrán personalizar los parámetros para conseguir un aspecto muy innovador, hay muchos efectos fotográficos que puede hacer con una cámara fotográfica o un dispositivo móvil.
         div(style="position: absolute; top: 0; left: .5rem; width: 140px; height: 80px; background-color: #FFF8DD; z-index: 0")
       img(src='@/assets/curso/temas/tema6/img-1.png' style="max-width: 505px").col-xl-6.mx-auto.mb-4.mb-xl-0.order-1.order-xl-2
 
@@ -30,13 +30,13 @@
             br
             | Las exposiciones largas tienen el mismo efecto que los barridos, pero los resultados son muy diferentes. Este efecto suaviza el acabado de los objetos en movimiento, haciendo un breve análisis se puede decir que es el efecto contrario al barrido. En el caso anterior, se enfoca nítidamente el objeto en movimiento. En este caso, el desenfoque está en el propio movimiento. Las fotografías de larga exposición a menudo se toman para representar un viaje en automóvil por la carretera o para mover suavemente las olas. Estos funcionan mejor en situaciones nocturnas donde la luz artificial no se mezcla con la luz natural. Al momento de hacer la toma se recomienda utilizar un trípode para reducir la velocidad del obturador, de esta forma, capta un fondo claro y el movimiento se convierte en un halo de luz.
 
-      .py-3.py-md-4(titulo="Efecto bokeh")
+      .py-3.py-md-4(titulo="Efecto <em>bokeh</em>")
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center.col-xl-10.mx-auto
           img(src='@/assets/curso/temas/tema6/img-4.png' style="max-width: 400px").col-xl-5
-          p.ps-xl-4.mb-0 <b>Efecto bokeh</b>
+          p.ps-xl-4.mb-0 <b>Efecto <em>bokeh</em></b>
             br
             br
-            |Es un efecto cálido, incluso un poco sensible. En este caso, se habla del desenfoque de la luz como fondo de una imagen con escasa profundidad de campo. El bokeh es muy distintivo porque representa una luz de forma circular, es un efecto realmente agradable que aprecian tanto los fotógrafos como los espectadores. 
+            |Es un efecto cálido, incluso un poco sensible. En este caso, se habla del desenfoque de la luz como fondo de una imagen con escasa profundidad de campo. El <em>bokeh</em> es muy distintivo porque representa una luz de forma circular, es un efecto realmente agradable que aprecian tanto los fotógrafos como los espectadores. 
       
       .py-3.py-md-4(titulo="Flash en segunda cortinilla")
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center.col-xl-10.mx-auto

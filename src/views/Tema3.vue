@@ -105,6 +105,7 @@
             .tarjeta-slide__contenido(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-7.png')})`}" style="background-size: cover; height: 100%; width: 100%; min-height: 458px")
             .tarjeta-slide__img.p-4(style="background-color: #FFF2BE")
               p(style="color: black") <b style="color: black !important">Ángulo cenital</b>
+                br
                 | Es cuando la toma se realiza en un ángulo completamente de arriba hacia abajo, perpendicular con respecto al suelo. Se puede afirmar que es lo más extremo posible de una toma de este tipo, provoca una fotografía sin perspectiva, la cual es muy representativa si se aplica a objetos pequeños e interesante si se aplica a grandes elementos.
 
 

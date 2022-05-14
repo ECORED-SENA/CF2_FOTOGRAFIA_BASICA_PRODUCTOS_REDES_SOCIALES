@@ -35,7 +35,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Iluminación con flash en estudio',
+            titulo: 'Iluminación con <em>flash</em> en estudio',
             hash: 't_1_2',
           },
           {
@@ -330,7 +330,7 @@ export default {
     },
     {
       referencia:
-        'Too Many Flash. (2021). <em>Iluminación en fotografía: tipos y teoría de la luz</em>.',
+        'Too Many <em>Flash</em>. (2021). <em>Iluminación en fotografía: tipos y teoría de la luz</em>.',
       link: 'https://toomanyflash.com/iluminacion-en-fotografia/',
     },
   ],

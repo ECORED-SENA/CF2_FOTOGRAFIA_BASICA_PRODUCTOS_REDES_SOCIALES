@@ -50,7 +50,7 @@
 
     img(src="@/assets/curso/temas/tema1/img-6.svg").col-12.col-md-11.col-xl-8.mx-auto.py-5.mb-5
 
-    p.mb-5 Esta propiedad se encuentra asociada a las rectas imaginarias que, de alguna forma, <b>indican la trayectoria que sigue la luz</b>. Pero lo realmente importante es que la dirección de la luz permite reforzar o suavizar el volumen, el color y la forma del objeto que se está fotografiando. A la hora de iluminar un objeto o una escena se tiene cinco opciones. La luz frontal minimiza el volumen y las sombras y ofrece colores puros. La luz trasera; sin embargo, acentúa las sombras, atenúa el color y define el contorno de los objetos.
+    p.mb-5 <b>Dirección:</b> Esta propiedad se encuentra asociada a las rectas imaginarias que, de alguna forma, <b>indican la trayectoria que sigue la luz</b>. Pero lo realmente importante es que la dirección de la luz permite reforzar o suavizar el volumen, el color y la forma del objeto que se está fotografiando. A la hora de iluminar un objeto o una escena se tiene cinco opciones. La luz frontal minimiza el volumen y las sombras y ofrece colores puros. La luz trasera; sin embargo, acentúa las sombras, atenúa el color y define el contorno de los objetos.
       br
       br
       | Las otras direcciones que se relacionan a la imagen son como dice Xataka (2015) <b>“la lateral, que acentúa el relieve, la textura y alarga las sombras. La cenital incide en los objetos desde arriba y da sensación de profundidad, debido a que permite separar los objetos situados en el primer plano del fondo. La opuesta a la luz cenital es la nadir. Por tanto, ilumina los objetos desde abajo y produce sombras muy poco naturales, debido a que es poco frecuente en la naturaleza (solo aparece cuando la luz se refleja en la nieve, en el agua, etc.)”</b>, con estos detalles se da paso al trabajo con la luz que dará como resultado grandiosas fotografías.
@@ -170,7 +170,7 @@
             br
             | Es un accesorio incorporado en cámaras digitales SLR y tradicionales, que permite poner unidades externas de <em>flash</em>. 
 
-    p.mb-5 Son unidades de fuente de energía que vienen separadas de la cámara y son utilizadas en producciones de fotografía que requieren mayor intensidad de luz. Tienen una potencia mayor a los otros dos tipos, a los cuales se les puede graduar su intensidad de destello. Pueden combinarse dos, tres o más unidades para recrear diferentes esquemas de iluminación. Además, cuentan con una luz de modelado incorporada, la cual es continua y permite ver en tiempo real cómo esta incide sobre los productos a fotografiar.     En algunos escenarios estos elementos son usados para realizar videos.
+    p.mb-5 <b>Tipo C - Cabezas de <em>flash</em>:</b> son unidades de fuente de energía que vienen separadas de la cámara y son utilizadas en producciones de fotografía que requieren mayor intensidad de luz. Tienen una potencia mayor a los otros dos tipos, a los cuales se les puede graduar su intensidad de destello. Pueden combinarse dos, tres o más unidades para recrear diferentes esquemas de iluminación. Además, cuentan con una luz de modelado incorporada, la cual es continua y permite ver en tiempo real cómo esta incide sobre los productos a fotografiar.     En algunos escenarios estos elementos son usados para realizar videos.
 
     .d-flex.flex-wrap.mb-5
       img(src="@/assets/curso/temas/tema1/img-15.png" style="max-width: 350px").col-12.col-md-12.col-xl-4.mx-auto.mb-4.mb-xl-0
@@ -205,7 +205,7 @@
           p.mb-0 <b>Reflector de <em>flash</em>:</b> es un accesorio de iluminación en forma de cono metálico, utilizado para controlar la luz del <em>flash</em>.
         img(src='@/assets/curso/temas/tema1/img-25.png' style="max-width: 400px").col-lg-4.mx-auto
 
-    p.mb-5 De este modo con la utilización de la iluminación de flash y de sus accesorios se pueden realizar fotografías con una óptima calidad, sin importar las circunstancias que se puedan presentar en un lugar con poca o ninguna iluminación natural.
+    p.mb-5 De este modo con la utilización de la iluminación de <em>flash</em> y de sus accesorios se pueden realizar fotografías con una óptima calidad, sin importar las circunstancias que se puedan presentar en un lugar con poca o ninguna iluminación natural.
 
     .tarjeta.color-primario.p-3.col-xl-10.mx-auto(style="background: linear-gradient(0deg, rgba(103,235,253,1) 0%, rgba(131,239,254,1) 25%, rgba(167,244,255,1) 75%, rgba(180,246,255,1) 100%);")
       .row.justify-content-around.align-items-center
@@ -216,7 +216,7 @@
               h3.mb-1(style="color: black !important") Aprender a iluminar en fotografía
               p.text-small(style="color: black !important") Para profundizar en el contenido de iluminación en el arte fotográfico se recomienda que lea  las páginas 4 a la 9 del texto <b style="color: black !important">Aprender a iluminar en fotografía.</b>
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Aprender_a_Iluminar_en_fotografía_FREE.pdf')" target="_blank")
                 span(style="color: black !important") Descargar
                 i.fas.fa-file-download(style="color: black !important")
     Separador
@@ -272,7 +272,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-    p.mb-5 A manera de práctica propuesta es necesario que aplique los esquemas de iluminación vistos con el software gratuito llamado Lighting Diagram disponible en <a href="http://www.lightingdiagrams.com/Creator" target="_blank">http://www.lightingdiagrams.com/Creator</a> y para hacer la práctica de la mejor manera se recomienda revisar el tutorial de uso en el siguiente video:
+    p.mb-5 A manera de práctica propuesta es necesario que aplique los esquemas de iluminación vistos con el <em>software</em> gratuito llamado Lighting Diagram disponible en <a href="http://www.lightingdiagrams.com/Creator" target="_blank">http://www.lightingdiagrams.com/Creator</a> y para hacer la práctica de la mejor manera se recomienda revisar el tutorial de uso en el siguiente video:
 
     figure.mb-5.video1
       .video
@@ -281,11 +281,11 @@
     .titulo-segundo.color-acento-contenido
       h2#t_1_5 1.5. Empleo del flex
 
-    p.mb-5 El flex es un accesorio de iluminación que no emite luz, su misión es reflejar la luz que recibe de otra fuente sin importar de qué tipo sea, natural o artificial. 
+    p.mb-5 El <em>flex</em> es un accesorio de iluminación que no emite luz, su misión es reflejar la luz que recibe de otra fuente sin importar de qué tipo sea, natural o artificial. 
 
     img(src='@/assets/curso/temas/tema1/img-28.png').col-xl-8.mx-auto.mb-5
 
-    p.mb-5 El flex cumple con las siguientes funciones de iluminación:
+    p.mb-5 El <em>flex</em> cumple con las siguientes funciones de iluminación:
 
     .tarjeta.tarjeta--azul(style="background-color: #F0F8FF").py-5.mb-5
       SlyderA.slide-tipo-a
@@ -293,7 +293,7 @@
           p.col-xl-7 <b>Rebotar la luz</b>
             br
             br
-            | Por medio del rebote de la luz el flex cumple con la función de iluminar las áreas oscuras de la fotografía. El flex tiene dos colores de superficie: <b>dorado y plateado</b>, los cuales tienen diferentes funcionalidades. El lado dorado sirve para fotografías con una temperatura de color <b>cálida</b> y el lado plateado para fotografías con una temperatura de color <b>fría</b>.
+            | Por medio del rebote de la luz el <em>flex</em> cumple con la función de iluminar las áreas oscuras de la fotografía. El <em>flex</em> tiene dos colores de superficie: <b>dorado y plateado</b>, los cuales tienen diferentes funcionalidades. El lado dorado sirve para fotografías con una temperatura de color <b>cálida</b> y el lado plateado para fotografías con una temperatura de color <b>fría</b>.
           img(src='@/assets/curso/temas/tema1/img-29.png' style="max-width: 400px").col-xl-5.mx-auto
         
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center.col-10.mx-auto
@@ -311,13 +311,13 @@
           img(src='@/assets/curso/temas/tema1/img-31.png' style="max-width: 253px").col-xl-5.mx-auto
         
 
-    p.mb-5 El flex funciona como un <b>asistente para los fotógrafos</b>, tal como lo puede ver en el siguiente video:
+    p.mb-5 El <em>flex</em> funciona como un <b>asistente para los fotógrafos</b>, tal como lo puede ver en el siguiente video:
 
     figure.mb-5.video1
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p.mb-5 Para entender más sobre el funcionamiento del flex se recomienda revisar los siguientes videos:
+    p.mb-5 Para entender más sobre el funcionamiento del <em>flex</em> se recomienda revisar los siguientes videos:
 
     figure.mb-5.video1
       .video
