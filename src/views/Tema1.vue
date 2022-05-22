@@ -26,7 +26,7 @@
 
     figure.mb-5.video1
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/P2WGSWqPVJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .d-flex.mb-5.py-5
       div(style="margin-left: -3rem; padding-top: .5rem; padding-bottom: .5rem; padding-left: 3rem; border-top-right-radius: 11px; background-color: #C9DFF1; position: relative; padding-right: 80px; min-width: 250px")
@@ -109,7 +109,7 @@
 
     figure.mb-5.video1
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/bre_pHXoAWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .titulo-segundo.color-acento-contenido
       h2#t_1_2 1.2 Iluminación con <em>flash</em> en estudio
@@ -235,7 +235,7 @@
 
       figure.mb-5.video1
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/8FvV39PLnXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .titulo-segundo.color-acento-contenido
       h2#t_1_4 1.4. Triángulo básico de iluminación
@@ -270,13 +270,13 @@
 
     figure.mb-5.video1
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/IM_4N9dXWyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mb-5 A manera de práctica propuesta es necesario que aplique los esquemas de iluminación vistos con el <em>software</em> gratuito llamado Lighting Diagram disponible en <a href="http://www.lightingdiagrams.com/Creator" target="_blank">http://www.lightingdiagrams.com/Creator</a> y para hacer la práctica de la mejor manera se recomienda revisar el tutorial de uso en el siguiente video:
 
     figure.mb-5.video1
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/kByglg6ajZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .titulo-segundo.color-acento-contenido
       h2#t_1_5 1.5. Empleo del flex
@@ -315,13 +315,21 @@
 
     figure.mb-5.video1
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/m8c7yKv9FXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5 Para entender más sobre el funcionamiento del <em>flex</em> se recomienda revisar los siguientes videos:
 
     figure.mb-5.video1
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ntFLtWykUiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    
+    figure.mb-5.video1
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/MjdpfXu6z0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    
+    figure.mb-5.video1
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/m1N9IN349Tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 
