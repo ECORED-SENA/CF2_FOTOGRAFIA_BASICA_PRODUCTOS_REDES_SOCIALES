@@ -169,8 +169,12 @@
             br
             br
             | Es un accesorio incorporado en cámaras digitales SLR y tradicionales, que permite poner unidades externas de <em>flash</em>. 
+    .d-flex.mb-5.py-5
+      div(style="margin-left: -3rem; padding-top: .5rem; padding-bottom: .5rem; padding-left: 3rem; border-top-right-radius: 11px; background-color: #C9DFF1; position: relative; padding-right: 80px; min-width: 250px")
+        h3.mb-0 Tipo C - Cabezas de <em>flash</em>
+        img(src="@/assets/curso/temas/tema1/decorador.svg" style="width: 83px; position: absolute; right: -40px; top: -25px")
 
-    p.mb-5 <b>Tipo C - Cabezas de <em>flash</em>:</b> son unidades de fuente de energía que vienen separadas de la cámara y son utilizadas en producciones de fotografía que requieren mayor intensidad de luz. Tienen una potencia mayor a los otros dos tipos, a los cuales se les puede graduar su intensidad de destello. Pueden combinarse dos, tres o más unidades para recrear diferentes esquemas de iluminación. Además, cuentan con una luz de modelado incorporada, la cual es continua y permite ver en tiempo real cómo esta incide sobre los productos a fotografiar.     En algunos escenarios estos elementos son usados para realizar videos.
+    p.mb-5 Son unidades de fuente de energía que vienen separadas de la cámara y son utilizadas en producciones de fotografía que requieren mayor intensidad de luz. Tienen una potencia mayor a los otros dos tipos, a los cuales se les puede graduar su intensidad de destello. Pueden combinarse dos, tres o más unidades para recrear diferentes esquemas de iluminación. Además, cuentan con una luz de modelado incorporada, la cual es continua y permite ver en tiempo real cómo esta incide sobre los productos a fotografiar.     En algunos escenarios estos elementos son usados para realizar videos.
 
     .d-flex.flex-wrap.mb-5
       img(src="@/assets/curso/temas/tema1/img-15.png" style="max-width: 350px").col-12.col-md-12.col-xl-4.mx-auto.mb-4.mb-xl-0
@@ -192,7 +196,7 @@
       
       .row.align-items-center(titulo="Cajas de luz")
         .col-lg-7.mb-4.mb-md-0.pe-lg-5.ms-lg-auto
-          p.mb-0 <b>Cajas de luz:</b> así como las cajas de luz de mano se pueden usar para espacios no muy grandes y son portátiles, de llevar estas cajas de luz independientes de gran tamaño cumplen la misma misión solo que se usan para espacios más grandes, que requieren iluminación de manera fija, esta caja es un accesorio portátil de iluminación, con forma de caja flexible que se adapta a una fuente de luz artificial. En su interior, sus paredes son de un material reflectivo que ayuda a potenciar el destello del <em>flash</em>. En unas de sus caras contiene una pantalla difusora por donde la luz atraviesa, suavizando el destello y creando una luz más suave y homogénea.       
+          p.mb-0 <b>Cajas de luz:</b> así como las cajas de luz de mano se pueden usar para espacios no muy grandes y son portátiles, de llevar estas cajas de luz independientes de gran tamaño cumplen la misma misión solo que se usan para espacios más grandes, que requieren iluminación de manera fija, esta caja es un accesorio portátil de iluminación, con forma de caja flexible que se adapta a una fuente de luz artificial. En su interior, sus paredes son de un material reflectivo que ayuda a potenciar el destello del <em>flash</em>. En unas de sus caras contiene una pantalla difusora por donde la luz atraviesa, suavizando el destello y creando una luz más suave y homogénea.
         img(src='@/assets/curso/temas/tema1/img-23.png' style="max-width: 250px").col-lg-4.mx-auto
 
       .row.align-items-center(titulo="Difusor")
@@ -279,7 +283,7 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/kByglg6ajZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .titulo-segundo.color-acento-contenido
-      h2#t_1_5 1.5. Empleo del flex
+      h2#t_1_5 1.5. Empleo del <em>flex</em>
 
     p.mb-5 El <em>flex</em> es un accesorio de iluminación que no emite luz, su misión es reflejar la luz que recibe de otra fuente sin importar de qué tipo sea, natural o artificial. 
 

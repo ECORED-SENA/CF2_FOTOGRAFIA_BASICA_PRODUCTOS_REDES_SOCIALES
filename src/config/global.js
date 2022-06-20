@@ -207,13 +207,11 @@ export default {
     {
       texto: 'Gonzaga, L. (2013). Aprende a iluminar en fotografía.',
       tipo: 'Libro PDF',
-      link: 'Páginas: 4 a la 9, 12, 13, 14 ,15.',
     },
     {
       texto:
         'Freeman, M. (2005). <em>Fotografía digital de personas</em>. TASCHEN.',
       tipo: 'Libro',
-      link: 'Páginas: 46, 47, 48, 49.',
     },
     {
       texto: 'Zerbst, C. (2008). Introducción a la fotografía digital.',
@@ -307,7 +305,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Gonzaga, L. (2013). <em>Aprender a iluminar en fotografía.</em>',
+        'Gonzaga, L. (2019). <em>Aprender a iluminar en fotografía.</em>',
       link:
         'https://www.aprenderailuminar.com/2011/09/libro-ebook-pdf-aprender-iluminar.html',
     },

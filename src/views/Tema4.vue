@@ -33,7 +33,7 @@
       
       .d-flex.flex-wrap.flex-lg-nowrap.align-items-center(titulo="El ritmo simétrico")
         img(src='@/assets/curso/temas/tema4/img-6.png' style="max-width: 315px").col-lg-4.mx-auto.ms-lg-5.mb-4.mb-lg-0
-        p.col-lg-8.ps-lg-4 Este ritmo en la fotografía está relacionado con la regla de los tercios y el horizonte porque pretende crear la simetría de los elementos de la imagen. La ventaja de este tipo de ritmo es que se puede combinar con otros ritmos para crear imágenes geniales, siempre y cuando se respeten las reglas de composición.
+        p.col-lg-7.ps-lg-4 Este ritmo en la fotografía está relacionado con la regla de los tercios y el horizonte porque pretende crear la simetría de los elementos de la imagen. La ventaja de este tipo de ritmo es que se puede combinar con otros ritmos para crear imágenes geniales, siempre y cuando se respeten las reglas de composición.
 
 
 

@@ -41,7 +41,7 @@
         div(v-if="positionImgHover == 0")
           img(src="@/assets/curso/temas/tema3/c-img-1.svg" style="max-width: 146px").mb-4
           h3 01. Plano entero
-          p es un <b>plano diseñado</b> para la presentación de un personaje u objeto, al poderlo ver en su totalidad, es decir, de pies a cabeza se podrá reconocer a primera medida, no solo quién es sino también cómo viste y su actitud. En fin, permite tener puntos específicos de él.
+          p Es un <b>plano diseñado</b> para la presentación de un personaje u objeto, al poderlo ver en su totalidad, es decir, de pies a cabeza se podrá reconocer a primera medida, no solo quién es sino también cómo viste y su actitud. En fin, permite tener puntos específicos de él.
 
         div(v-if="positionImgHover == 1")
           img(src="@/assets/curso/temas/tema3/c-img-2.svg" style="max-width: 146px").mb-4
@@ -68,7 +68,7 @@
           h3 06. Plano de detalle
           p El <b>plano de detalle</b> es completamente cerrado que muestra únicamente eso que se necesita ver, no interesa nada más.
 
-    p.mb-5 Adicionalmente a los planos de distancia y enfoque se suma el ángulo de captura de la imagen y para eso se hace referencia a que el ángulo de toma de una fotografía se puede dividir en cuatro tipos según la altura relativa al sujeto fotografiado. Cada uno de estos cuadrantes tiene su propio significado especial y agrega significado a la imagen, los fotógrafos deben ser conscientes de esto para utilizarlo conscientemente a su favor. Los cuatro tipos de ángulos son los siguientes: 
+    p.mb-5 Adicionalmente a los planos de distancia y enfoque se suma el ángulo de captura de la imagen y para eso se hace referencia a que el ángulo de toma de una fotografía se puede dividir en cuatro tipos según la altura relativa al sujeto fotografiado. Cada uno de estos cuadrantes tiene su propio significado especial y agrega significado a la imagen, los fotógrafos deben ser conscientes de esto para utilizarlo a su favor. Los cuatro tipos de ángulos son los siguientes: 
 
     .row.mb-5.justify-content-center
       .col-md-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
@@ -97,7 +97,7 @@
             .tarjeta-slide__img.p-4(style="background-color: #FFF8DD")
               p(style="color: black") <b style="color: black !important">Ángulo contrapicado</b>
                 br
-                |por el contrario, a la toma anterior esta se realiza desde un lugar bajo que el objetivo tomado, haciendo que quede este mucho más alto que la cámara, teniendo en cuenta la perspectiva que se podrá observar el objetivo parecerá muy grande visualmente, lo que generará al espectador una sensación de poder, enaltecimiento e importancia.
+                |Por el contrario, a la toma anterior esta se realiza desde un lugar bajo que el objetivo tomado, haciendo que quede este mucho más alto que la cámara, teniendo en cuenta la perspectiva que se podrá observar el objetivo parecerá muy grande visualmente, lo que generará al espectador una sensación de poder, enaltecimiento e importancia.
 
       .col-md-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.arriba.color-primario
