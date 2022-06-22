@@ -46,7 +46,7 @@
         h3.mb-0 Temperatura de color
         img(src="@/assets/curso/temas/tema1/decorador.svg" style="width: 83px; position: absolute; right: -40px; top: -25px")
 
-    p.mb-5 <b>El color va muy de la mano de la luz y de la intensidad</b>, según la intensidad de la luz una fotografía varía su color, sus matices y sus contrastes. Según <b>leds.com</b>, un blog muy reconocido de fotografía (2019) <b>“la temperatura de color de una fuente de luz se define comparando su color dentro del espectro luminoso con el de la luz que emitiría un cuerpo negro calentado a una temperatura determinada”</b>, en ese sentido a temperatura cálida se acerca a los tonos amarillos, naranjas y rojizos y, la temperatura fría hacia los tonos azules como se representa a continuación:
+    p.mb-5 <b>El color va muy de la mano de la luz y de la intensidad</b>, según la intensidad de la luz una fotografía varía su color, sus matices y sus contrastes. Según <b>leds.com</b>, un blog muy reconocido de fotografía (2019) <b>“la temperatura de color de una fuente de luz se define comparando su color dentro del espectro luminoso con el de la luz que emitiría un cuerpo negro calentado a una temperatura determinada”</b>, en ese sentido la temperatura cálida se acerca a los tonos amarillos, naranjas y rojizos y, la temperatura fría hacia los tonos azules como se representa a continuación:
 
     img(src="@/assets/curso/temas/tema1/img-6.svg").col-12.col-md-11.col-xl-8.mx-auto.py-5.mb-5
 
